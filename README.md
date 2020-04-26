@@ -1,4 +1,4 @@
 # razer-demo
 An Android application which controlled color of Razer peripherals.
 
-![Demo](/demo.MOV)
+![Demo](/demo.gif)
